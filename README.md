@@ -6,8 +6,9 @@
 ------------------
 
 - fuelo-gasstations-all.csv - всички обекти от fuelo.net в csv формат
-- fuelo-cng-stations.csv - Метанстанции в България
-- fuelo-lpg-stations.csv -	Газстанции в България
+- fuelo-cng-stations.csv - метанстанции в България
+- fuelo-lpg-stations.csv -	газстанции в България
+- prices-XXXX.csv - средни цени на бензин, дизел и автогаз в България по дни за съответната година
 - provinces.geojson	- областите на България в geojson формат (не много точен)
 
 Последно обновяване: 13 януари 2015г.
